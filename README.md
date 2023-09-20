@@ -38,3 +38,7 @@ You can check out the [CHANGELOG.md](CHANGELOG.md) for more details about this u
 The feeds are also on my [GitHub Pages](https://yinan.me/RSS-GPT/). Feel free to subscribe in your favorite RSS reader.
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there is any question using the script or any suggestions.
+- https://www.ifanr.com/feed -> https://None.github.io/RSS-GPT/ifanr.xml
+- https://brett.trpstra.net/brettterpstra -> https://None.github.io/RSS-GPT/brett-terpstra.xml
+- https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://None.github.io/RSS-GPT/appinn.xml
+- https://rsshub.app/sspai/index -> https://None.github.io/RSS-GPT/sspai.xml
