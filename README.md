@@ -1,7 +1,8 @@
 # RSS-GPT
 
+![](https://img.shields.io/github/last-commit/yinan-c/RSS-GPT/main?label=updated)
 [![](https://img.shields.io/github/actions/workflow/status/yinan-c/RSS-GPT/cron-job.yml?label=cron-job)](https://github.com/yinan-c/RSS-GPT/actions/workflows/cron-job.yml)
-[![](https://img.shields.io/github/actions/workflow/status/yinan-c/RSS-GPT/jekyll-gh-pages.yml?label=GitHub%20Pages)](https://github.com/yinan-c/RSS-GPT/actions/workflows/jekyll-gh-pages.yml)
+![](https://img.shields.io/github/stars/yinan-c/RSS-GPT)
 
 
 [Configuration Guide](https://yinan.me/rss-gpt-manual-en.html) | [中文介绍](README-zh.md) | [中文教程](https://yinan.me/rss-gpt-manual-zh.html) 
@@ -25,7 +26,7 @@ Check out the [CHANGELOG.md](CHANGELOG.md) for the latest changes.
     - U_EMAIL: your GitHub email
     - WORK_TOKEN: your GitHub personal access with `repo` and `workflow` scope, get it from [GitHub settings](https://github.com/settings/tokens/new)
     - OPENAI_API_KEY: your OpenAI API key, get it from [OpenAI website](https://platform.openai.com/account/api-keys)
-- Enable GitHub Actions to deploy GitHub Pages in repo settings
+- Enable GitHub Pages in repo settings, choose the `auto-commit` branch `/docs` folder as source.
 - Configure your RSS feeds in config.ini
 
 You can check out [here](https://yinan.me/rss-gpt-manual-en.html) for a more detailed configuration guide.
